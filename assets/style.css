@@ -78,9 +78,10 @@ header {
     display: flex;
     justify-content: center;
 }
-#score {
-    font-size: medium;
+.score {
+    font-size: 50 px;
     flex: auto;
+    color: red;
 }
 #timer {
     font-size: medium;
